@@ -1,4 +1,4 @@
-package Algo;
+package Algo.Prime;
 
 import java.util.ArrayList;
 import java.util.Arrays;
